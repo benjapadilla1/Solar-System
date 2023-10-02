@@ -1,0 +1,60 @@
+{
+  "planets": [
+    {
+      "name": "Mercury",
+      "description": "The tiniest and closest planet from the sun in the solar system",
+      "surface": 4879,
+      "average_distance_from_sun_km": 57909175,
+      "image": "mercury.jpg"
+    },
+    {
+      "name": "Venus",
+      "description": "The planet most similar to Earth in terms of size and composition.",
+      "surface": 12104,
+      "average_distance_from_sun_km": 108208930,
+      "image": "venus.jpg"
+    },
+    {
+      "name": "Earth",
+      "description": "Our planet, the only one known to host life.",
+      "surface": 12742,
+      "average_distance_from_sun_km": 149597870,
+      "image": "earth.jpg"
+    },
+    {
+      "name": "Mars",
+      "description": "The Red Planet, known for its characteristic color.",
+      "surface": 6779,
+      "average_distance_from_sun_km": 227936640,
+      "image": "mars.jpg"
+    },
+    {
+      "name": "Jupiter",
+      "description": "The largest planet in the solar system.",
+      "surface": 139822,
+      "average_distance_from_sun_km": 778412010,
+      "image": "jupiter.jpg"
+    },
+    {
+      "name": "Saturn",
+      "description": "With its iconic rings, Saturn is one of the most fascinating planets.",
+      "surface": 116464,
+      "average_distance_from_sun_km": 1426725400,
+      "image": "saturn.jpg"
+    },
+    {
+      "name": "Uranus",
+      "description": "Uranus is characterized by its extreme tilt on its rotational axis.",
+      "surface": 50724,
+      "average_distance_from_sun_km": 2870972200,
+      "image": "uranus.jpg"
+    },
+    {
+      "name": "Neptune",
+      "description": "The most distant planet in the solar system, known for its intense blue color.",
+      "surface": 49244,
+      "average_distance_from_sun_km": 4498252900,
+      "image": "neptune.jpg"
+    }
+  ]
+}
